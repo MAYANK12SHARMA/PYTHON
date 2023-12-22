@@ -1,0 +1,8 @@
+a dictionary is a mutable, unordered collection of key-value pairs. It is a versatile data structure that allows you to store and retrieve values based on a unique key. Dictionaries are defined using curly braces {} and consist of key-value pairs separated by colons.
+
+Create a dictionary
+
+You can create a dictionary by enclosing key-value pairs within curly braces.
+
+my_dict = {'key1': 'value1', 'key2': 'value2', 'key3': 'value3'}.
+
